@@ -1,0 +1,16 @@
+planetlab1.cs.uoi.gr
+planetlab1.csg.uzh.ch
+planetlab1.utt.fr
+planetlab1.virtues.fi
+planetlab2.ci.pwr.wroc.pl
+planetlab2.cs.uit.no
+planetlab2.extern.kuleuven.be
+plab4.ple.silweb.pl
+planck227ple.test.ibbt.be
+planet-lab-node1.netgroup.uniroma2.it
+planet-lab-node2.netgroup.uniroma2.it
+planetlab-3.imperial.ac.uk
+planetlab-4.imperial.ac.uk
+planetlab-node3.it-sudparis.eu
+planetlab-tea.ait.ie
+planetlab-um00.di.uminho.pt
